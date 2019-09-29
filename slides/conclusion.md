@@ -1,7 +1,5 @@
 ## En conclusion
 
-- Le cloud c'est la vie
-- Plusieurs offres cloud pour plusieurs populations
-- Faire le bon choix au bon moment
-- Le cloud permet de nouveaux business model qui n'existaient pas auparavant
-
+- L'Infra-as-Code permet d'automatiser la création d'environnement
+- Le déploiement est beaucoup plus simple
+- Tout est stocké dans un repository unique
